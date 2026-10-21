@@ -9,6 +9,3 @@ Basic Git
 ## Projects
 git skill :first project
 git skill 1: second project
-## Social Links
--Github: https://github.com/codevaibhav-31
--Linkedin: linkdobdubejdv
