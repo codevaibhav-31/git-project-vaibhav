@@ -1,4 +1,8 @@
 # Vaibhav Vishal
 
 ## About Me
-I am a student at ADYPU ,currrently leaigitng Git and Github
+I am a student at ADYPU ,currrently learning Git and Github
+## Skills
+Communication
+Problem Solving
+Basic Git
